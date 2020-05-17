@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+*.o
+*.hex
+c64/doswedge
+vic-20/doswedge
